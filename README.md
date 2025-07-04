@@ -4,9 +4,6 @@
 
 ### Project Overview
 
-## Project Topic - kultra Mega Stores Inventory 
-
-### Project Overview
 
 
 
